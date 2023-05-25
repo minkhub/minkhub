@@ -1,4 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffbaba&height=300&section=header&text=Minkhub%20repo&fontSize=80&fontColor=f9f1f1)
+
+**🐣Chick-en🐣**
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkhub)](https://github.com/minkhub/github-readme-stats)
+
+
+
 
 <!--
 **minkhub/minkhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
