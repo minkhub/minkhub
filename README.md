@@ -1,8 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffbaba&height=300&section=header&text=Minkhub%20repo&fontSize=80&fontColor=f9f1f1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffbaba&height=300&section=header&text=Minkhub%20README&fontSize=80&fontColor=f9f1f1)
+
+**📗Ewha Womans University**
 
 **🐣Chick-en🐣**
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+**🍏Tools**
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkhub)](https://github.com/minkhub/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkhub)](https://github.com/minkhub/github-readme-stats)
 
