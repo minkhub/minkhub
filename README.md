@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffbaba&height=300&section=header&text=Minkhub%20README&fontSize=80&fontColor=f9f1f1)
 
-**📗Ewha Womans University**
+**📗Education**
 
-**🐣Chick-en🐣**
+**EWHA WOMANS UNIVERSITY**, 2021.03~
+
+**Hyundai Senior High School**, 2018.03 ~ 2021.02
 
 **🍏Tools**
 
